@@ -39,7 +39,8 @@ section{
     border-radius: 10px;
 }
 .mid-text{
-    font-size: 50px;
+    font-size: 60px;
+    font-family: 'Roboto', sans-serif;
     font-weight:bolder;
 }
 .flexible-container{
@@ -73,4 +74,35 @@ border: 5px solid rgb(255, 120, 71);
 }
 .second-button{
     margin-top: 2%;
+}
+.box-header{
+    font-size:40px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+}
+#donating-div{
+    height: 50%;
+    width: 90%;
+    margin: 0 auto;
+}
+.three-ways{
+    background-color: rgb(197, 255, 236);
+    margin-left: 3%;
+    margin-right: 3%;
+    height: 80%;
+    padding: 40px 30px;
+    text-align: left;
+    border-radius: 20px;
+}
+#light-blue{
+    background-color: rgb(201, 228, 255);
+}
+#light-pink{
+    background-color: rgb(255, 221, 239);
+}
+.number{
+    font-size: 20px;
+}
+.image-icon{
+   
 }
