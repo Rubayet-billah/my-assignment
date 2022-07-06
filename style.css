@@ -148,8 +148,8 @@ form input{
    background-color:tomato;
 }
 footer{
-    background-color: rgb(215, 215, 215);
-   
+    background-color: rgb(28, 28, 28);
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 2% 0 1%;
 }
