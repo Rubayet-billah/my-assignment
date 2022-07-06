@@ -33,7 +33,7 @@ section{
     text-shadow: none;
     font-family: 'Roboto', sans-serif;
     color: rgb(255, 255, 255);
-   background-color: rgb(255, 120, 71);
+   background-color: rgb(253, 107, 54);
     padding: 10px 15px;
     border-bottom:2px solid rgb(255, 255, 255);
     border-radius: 10px;
@@ -110,6 +110,7 @@ border: 5px solid rgb(255, 120, 71);
     width: 90%;
     padding-top: 5%;
     padding-right: 10%;
+    border-radius: 10px;
 }
 .half-width .header-description{
     text-align: justify;
